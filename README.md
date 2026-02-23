@@ -1,4 +1,4 @@
-# 🏀 NBA2K2 OL 全自动AI答题助手
+# 🏀 NBA2KOL2 智多星活动全自动AI答题助手
 
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](2k.user.js)
 [![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Supported-green.svg)](https://www.tampermonkey.net/)
@@ -43,6 +43,7 @@
 ## 📚 题库管理功能
 
 脚本内置了强大的本地题库管理系统，支持自动记录和手动管理。
+
 
 ### 1. 自动记录
 在答题过程中，脚本会自动将**题目**、**选项**和**AI 回答的正确答案**保存到本地存储中。下次遇到相同题目时，脚本会优先检索本地题库，提高答题速度和准确率。
