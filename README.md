@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](2k.user.js)
 [![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Supported-green.svg)](https://www.tampermonkey.net/)
 
-这是一个为 NBA2K2 OL 设计的油猴脚本（UserScript），能够全自动识别网页上的答题内容，并调用 AI 模型（如 DeepSeek、OpenAI）进行自动答题。
+这是一个为 NBA2KOL2 设计的油猴脚本（UserScript），能够全自动识别网页上的答题内容，并调用 AI 模型（如 DeepSeek、OpenAI）进行自动答题。
 
 ## ✨ 主要功能
 
@@ -21,7 +21,7 @@
 
 2. **安装脚本**：
    - 如果你有脚本文件，直接拖入浏览器扩展管理界面安装。
-   - 或者点击 [这里](2k.user.js) (如果托管在 GitHub/GreasyFork) 安装。
+   - 或者点击 [这里](2k.user.js) 安装。
 
 ## ⚙️ 配置方法
 
@@ -35,7 +35,7 @@
 
 ## 🚀 使用方法
 
-1. 打开 NBA2K2 OL 活动页面 (匹配 `https://nba2k2.qq.com/*`)。
+1. 打开 NBA2K2 OL 活动页面 [(匹配 `https://nba2k2.qq.com/*`)](https://nba2k2.qq.com/cp/a20260119Lh1p8g/)。
 2. 脚本会自动加载，并在页面显示操作面板（通常在右侧或左侧）。
 3. 确保 API 配置正确。
 4. 当活动开始时，脚本会自动检测并开始答题流程。
